@@ -1,6 +1,4 @@
-X# COLA - Cool animal owners Leipzig association website
+README first
 
-This is the open source project for the COLA website
+# Author: Carsten Hennig
 
-##Authors
-Joel
