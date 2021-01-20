@@ -12,7 +12,7 @@ Wushy      | Goofy
 Goofy2     | Neighbour's dog
 
 
-Some dog emoji reffering to [www.github.com/katyang/emoji-cheat-sheet]
+Some dog emoji reffering to [https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md]
 :dog:
 :dog2:
 :guide_dog:
