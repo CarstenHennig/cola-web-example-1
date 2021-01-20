@@ -1,6 +1,6 @@
 This is the dogs.md
 
-[https://pixabay.com/photos/gorgeous-puppy-eyes-cute-dog-3004460/] It's for funny dogs 
+|[It's for funny dogs](https://pixabay.com/photos/gorgeous-puppy-eyes-cute-dog-3004460/)
 
 
 Funny dogs | Sad dogs 
