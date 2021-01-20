@@ -1,6 +1,7 @@
-This is the dogs.md
+# This is the dogs.md
+## Some stuff around
+### woof woof 
 
-![Alt Text](url)
 ![It's for funny dogs](https://cdn.pixabay.com/photo/2017/12/07/20/00/gorgeous-3004460_1280.jpg)
 
 
