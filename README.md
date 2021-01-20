@@ -1,6 +1,6 @@
-# COLA - Cool animal Owners Leipzig Association website
+X# COLA - Cool animal owners Leipzig association website
 
 This is the open source project for the COLA website
 
-## Authors
+##Authors
 Joel
