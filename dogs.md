@@ -4,7 +4,7 @@ This is the dogs.md
 
 
 Funny dogs | Sad dogs 
-********** | ********
+---------- | --------
 Fluffy     | Pinky
 Wushy      | Goofy
 Goofy2     | Neighbour's dog
